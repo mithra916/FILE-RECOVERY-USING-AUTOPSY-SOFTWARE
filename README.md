@@ -1,7 +1,7 @@
 # FILE-RECOVERY-USING-AUTOPSY-SOFTWARE
 ```
-Name: Divya R V
-Reg no : 212223100005
+Name: LOGA MITHRA R
+Reg no : 212223100027
 ```
 ## AIM
 To use **Autopsy Digital Forensics Tool** to retrieve deleted files from a disk image.
